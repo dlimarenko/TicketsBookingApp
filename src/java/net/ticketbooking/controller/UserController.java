@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 /**
- * Contriller for {@link net.ticketbooking.model.User}'s pages.
+ * Controller for {@link net.ticketbooking.model.User}'s pages.
  *
  * @author Dmytro Limarenko
  * @version 1.0
